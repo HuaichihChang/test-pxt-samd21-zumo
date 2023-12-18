@@ -1,0 +1,23 @@
+{
+    "name": "test pxt-samd21-zumo",
+    "description": "",
+    "dependencies": {
+        "pxt-samd21-zumo": "github:HuaichihChang/pxt-samd21-zumo#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.66",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj"
+}
